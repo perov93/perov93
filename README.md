@@ -1,5 +1,5 @@
-### Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 <!--
 **perov93/perov93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
