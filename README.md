@@ -1,27 +1,44 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<h3>Things I code with</h3>
-<p>
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
+<h2 align="center">Hi 👋, I'm Pavel</h2>
+<h3 align="center">A postgraduate student, software engineer and longlife learner</h3>
 
 
-<a href="#"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=perov93&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perov93&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
-<!--
-**perov93/perov93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://linkedin.com/in/pvasilev93" target="blank"><img align="left" src="icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
+<br />
+### I am...
+* 🎓 Graduated student**
+* 🔭 Currently learning **React.js**
+
+
+### Recent achievements 🏆
+* 🥉 **[JunctionX Seoul 2021](https://app.hackjunction.com/events/junctionx-seoul)** Finalist (3rd winner in SIA Track with project SmartChange)
+* 📃 **Paper in Energies (Q2)** (as co-author) [Paper Publication](https://www.mdpi.com/1996-1073/14/2/418)
+* 🥉 **IEEE Seoul Section Student Paper Bronze Award (2020)** (as co-author)
+* 🥉 **[JunctionX Seoul 2020](https://app.hackjunction.com/events/junctionx-seoul)** Finalist (3rd winner in SIA Track with project SmartMonitor)
+* 📃 **International Conference on Electric-Vehicle, Smart Grid and Information Technology 2020** (as co-author) [Paper Publication](https://www.researchgate.net/publication/344287197_Optimal_Distributed_Generation_Selection_Using_Particle_Swarm_Optimization)
+
+### Recent notes 📝
+
+* **Setting Maven up to work with Azure DevOps Artifacts** - [Read](https://github.com/xtenzQ/dev-notes/blob/main/azure-devops/setting-maven-up-artifacts.md) `devops` `maven` `artifacts`
+
+### Languages and Frameworks
+
+<img align="left" src="icons/c-sharp-solid.svg" />
+<img align="left" src="icons/dot-net.svg" />
+<img align="left" src="icons/java.svg" />
+<img align="left" src="icons/kotlin.svg" />
+<img align="left" src="icons/gwt.svg" />
+<img align="left" src="icons/tensorflow.svg" />
+<img align="left" src="icons/matlab.svg" />
+<img align="left" src="icons/opencv.svg" />
+<img align="left" src="icons/react.svg" />
+<img align="left" src="icons/bulma.svg" />
+<img align="left" src="icons/bootstrap.svg" />
+<img align="left" src="icons/typescript.svg" />
+<br />
+<br />
+<br />
+
+![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/languages.svg)
