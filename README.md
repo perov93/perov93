@@ -17,5 +17,5 @@
 
 
 
-![](https://raw.githubusercontent.com/perov93/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/perov93/github-stats-transparent/output/generated/languages.svg)
+(https://raw.githubusercontent.com/perov93/github-stats-transparent/output/generated/overview.svg)
+(https://raw.githubusercontent.com/perov93/github-stats-transparent/output/generated/languages.svg)
