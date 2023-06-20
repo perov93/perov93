@@ -8,7 +8,7 @@
 <p><strong>Freelancing & Assisting my father at his shop.
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme.znm4hitug9zd40cd1iarls4dk.vercel.app/api/spotify)](https://open.spotify.com/user/znm4hitug9zd40cd1iarls4dk) <br>
+[![Spotify](![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=znm4hitug9zd40cd1iarls4dk&count=1) <br>
 
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
