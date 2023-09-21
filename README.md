@@ -1,8 +1,8 @@
 <div align="center" width="50">
 <h2 align="center">Hi 👋, I'm Pavel</h2>
 <br><br> Vibing to : 🎧  </strong></p>
+<div align="right">![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=znm4hitug9zd40cd1iarls4dk&count=1) <br></div>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=znm4hitug9zd40cd1iarls4dk&count=1) <br>
 
 </div>
 
@@ -15,5 +15,5 @@ I spend my days with my hands in many different areas of web development from ba
 
 ## I am currently:
  - CEO and co-founder of [Movega Removals LTD](https://www.movega.co.uk)
- - 
 ## Find me around the web 🌎:
+ - - [GitHub](https://github.com/perov93)
