@@ -15,8 +15,7 @@ I spend my days with my hands in many different areas of web development from ba
 
 <br>
 <div align="center" width="50">
-<h2 align="center">Hi 👋, I'm Pavel</h2>
-<br><br> Vibing to : 🎧  </strong></p>
+<h3> Vibing to : 🎧  </strong></h3>
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=znm4hitug9zd40cd1iarls4dk&count=1) <br>
 
